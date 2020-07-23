@@ -15,7 +15,7 @@ function Connect-O365SServicesMFA_SCC {
     begin {
 
         $Service = $null
-        $Service = 'Exchange'
+        $Service = 'exchange'
 
         # 'AzureAD', 'Exchange', 'MSOnline', 'SecurityAndCompliance', 'SharePoint', 'SkypeForBusiness', 'Teams')]
 

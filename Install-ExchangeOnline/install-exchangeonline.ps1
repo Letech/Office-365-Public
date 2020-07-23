@@ -1,3 +1,4 @@
 install-module -name exchangeonlinemanagement
 import-module exchangeonlinemanagement
+Connect-ExchangeOnline
 
